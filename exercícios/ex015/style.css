@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+* {
+    font-family:Georgia, 'Times New Roman', Times, serif, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /*height: 100%;*/
+}
+
+body {
+    background-image: linear-gradient(to bottom, #567ba8, #ab95be, #c5a3ac);
+}
+
+main {
+    background:#ffffff56; 
+    border-radius: 25px;
+    box-shadow: 5px 5px 15px #51475e88;
+    width:600px;
+    padding: 15px;
+    margin: auto;
+}
+
+h1 {
+    color:#2c353f;
+    text-align: center;
+}
+
+h2{
+    color: #39495c;
+}
+
+p {
+    text-align: justify;
+}

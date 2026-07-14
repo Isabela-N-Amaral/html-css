@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(208, 228, 216);
+}
+
+h1 {
+    color: rgb(29, 105, 50);
+}
+
+a {
+    color: rgb(23, 88, 78);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:visited {
+    color: rgb(0, 143, 7);
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    color: rgb(103, 168, 103);
+}
